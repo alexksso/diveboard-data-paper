@@ -62,21 +62,23 @@ Diveboarders can log their dives online, including the species they observed, by
 
 **Phylum**: Annelida, Porifera, Platyhelminthes, Cnidaria, Ctenophora, Mollusca, Arthropoda, Echinodermata, Chordata, Rhodophyta, Chlorophyta, Echiura, Heterokontophyta, Magnoliaphyta, Ochrophyta, Sipuncula
 
-**Class**: Actinopterygii, Elasmobranchii, Holocephali,  Reptilia, Mammalia, Aves, Thaliacea, Ascidiacea, Anthozoa, Cephalopoda, Bivalvia, Malacostraca, Gastropoda, Maxillopoda, Asteroidea, Crinoidea, Echinoidea, Ophiuroidea, Holothuroidea, Cubozoa, Hydrozoa, Scyphozoa, Tentaculata, Demospongiae, Hexactinellida, Calcarea, Bryopsidophyceae, Florideophyceae, Ulvophyceae …
+**Class**: Actinopterygii, Anthozoa, Ascidiacea, Asteroidea, Aves, Bivalvia, Branchiopoda, Bryopsidophyceae, Calcarea, Cephalopoda, Crinoidea, Cubozoa, Demospongiae, Echinoidea, Elasmobranchii, Florideophyceae, Gastropoda, Hexactinellida, Holocephali, Holothuroidea, Hydrozoa, Liliopsida, Magnoliopsida, Malacostraca, Mammalia, Maxillopoda, Merostomata, Ophiuroidea, Phaeophyceae, Polychaeta, Pycnogonida, Reptilia, Rhabditophora, Scyphozoa, Sipunculidea, Tentaculata, Thaliacea, Ulvophyceae
 
 ![Figure 3](images/image_3.png)
 
-*Figure 3: Spacial and taxonomical coverage combined*
+*Figure 3: Spacial and taxonomical coverage of the most frequent occurring classes combined*
 
-**Common names**: ray-finned fishes, sharks, rays & skates, Crustaceans, Echinoderms
+**Common names**: ray-finned fishes, sharks, rays & skates, crustaceans, echinoderms...
 
 ## Spatial coverage
 
-**General spatial coverage**: The Diveboard Scuba diving citizen science observations dataset is a global dataset. This means that observations can “virtually” be made everywhere on the planet. Off course, divers do mostly explore more or less fixed dive spots. When logging a dive on diveboard, divers do always have the opportunity to create a new “locality or dive site”, by naming it and placing a pin on the map. The person who logs the dive, is also asked to give the country (Dwc: country); the location (nearest administrative area); the sea/lake name (DwC:WaterBody) and the longitude (decimalLongitude) and latitude (decimalLatitude). More likely, a diver can log a dive to an already know dive site in the Diveboard database.
+**General spatial coverage**: The Diveboard Scuba diving citizen science observations dataset is a global dataset. This means that observations can “virtually” be made everywhere on the planet. Off course, divers do mostly explore more or less fixed dive spots. When logging a dive on diveboard, divers do always have the opportunity to create a new “locality or dive site”, by naming it and placing a pin on the map. The person who logs the dive, is also asked to give the country (Dwc: country); the location (nearest administrative area); the sea/lake name (DwC:WaterBody) and the longitude (decimalLongitude) and latitude (decimalLatitude). More likely, a diver can log a dive to an already know dive site in the Diveboard database. In the dataset we can find, to date, data originating from 106 countries. Logically, and representesd in the data are top diving countries like Australia (Great barrier reef; almost 3000 occurrences, United states (mainly Pacific ocean; almost 2000 occurrences) and Egypt (Red sea; almost 1200 occurrences).
 
 **Coordinates**: 90°0'0''S and 90°0'0''N Latitude; 180°0'0''W and 180°0'0''E Longitude 
 
-![Figure 3]()
+![Figure 4](images/image_4.png)
+
+*Figure 4: 106 different coutries occur in the dataset. This figure only gives the top 21 countries
 
 ## Temporal coverage
 
