@@ -27,7 +27,7 @@ and http://ipt.diveboard.com/resource.do?r=diveboard-occurrences.
 
 Diveboard (http://www.diveboard.com) is an online scuba diving platform, where divers can digitize or log their dives including the observed species, participate in citizen science surveys and projects, and interact with others. More than 10,000 divers have already registered with Diveboard and the community is still growing. This dataset contains all observations made by Diveboarders worldwide and the species in this dataset are linked to the Encyclopedia of Life (www.eol.org) as a taxonomical backbone. The dataset contains mainly fish observations (Actinopterygii and Elasmobranchii) (73%) but also holds occurrences of numerous other groups. Every record in the dataset links back to the digital dive log, creating the opportunity to trace back to the original observation and dive, through the Diveboard website. For many dives pictures are provided in the digital logbook, but momentarily they are not directly linked with the occurrence data. To date the dataset contains around 16 000 occurrences provided by 800 divers, recorded on 2500 different localities in 106 different countries. The number of participating divers is growing every day and the amount of data which could be generated through Diveboard is virtually unlimited. The “Diveboard; Citizen science” dataset will be automatically published every month through and is available through: http://ipt.diveboard.com/resource.do?r=diveboard-occurrences
 
-![Figure 0]()
+![Figure 1](images/image_1.png)
 
 **Keywords**: occurrence, observation, citizen science, marine, freshwater, fishes, scuba diving, reef, shark
 
