@@ -78,17 +78,28 @@ Diveboarders can log their dives online, including the species they observed, by
 
 ![Figure 4](images/image_4.png)
 
-*Figure 4: 106 different coutries occur in the dataset. This figure only gives the top 21 countries
+*Figure 4: 106 different coutries occur in the dataset. This figure only gives the top 21 countries*
 
 ## Temporal coverage
 
-![Figure 4]()
+![Figure 5](images/image_5.png)
+
+*Figure 5: The number of recorded occurrences through time. Since the Diveboard application is online, a significant increase of the data appeared and around 1000 of new recordings are added every month.*
 
 **Living time period**: 1980-recent
 
 ## Methods
 
-**Method step description**: Event and location conditions (date, time, depth, etc.) are often logged automatically by the dive computer or recorded in the divers personall log. This data can be imported automatically or manually added by the diver in the Diveboard application. Observed species are alwaysadded manually, by choosing the right species from the checklist. These actions can be done just after surfacing, as the Diveboard application is available online and as a mobile app, which allows divers to record their dive even if no internet connection is available. Older data can be copied into the application manually by transcripting the original divers log.
+**Method step description**: Event and location conditions (date, time, depth, etc.) are often logged automatically by the dive computer or recorded in the divers personall log. This data can be imported automatically or manually added by the diver in the Diveboard application. Observed species are always added manually, by choosing the right species from the checklist. If the observed species is not available on Diveboard, you can import the species by using a protocol developed by diveboard which build on the EOL webservices. These actions can be done just after surfacing, as the Diveboard application is available online and as a mobile app, which allows divers to record their dive even if no internet connection is available. Older data can be copied into the application manually by transcripting the original divers log.
+
+![Figure 6](images/image_6.png)
+
+*Figure 6: Certain variables can be imported manually or by computer*
+
+
+![Figure 7](images/image_7.png)
+
+*Figure 7: Observed species are imported by selecting the observed species in the EOL checklist. 
 
 **Study extent description**: The dataset covers recorded observations made during scuba dives performed by members of the Diveboard community. As such there is no specific geographic or temporal study extent, although most dives logged on Diveboard were conducted in well-known dive spots, such as well-known reefs and wrecks. In a later phase, specific surveys might also be logged on Diveboard.
 
@@ -101,6 +112,8 @@ Diveboarders can log their dives online, including the species they observed, by
 ## Dataset history
 
 Since 2011, Diveboard lets scuba divers track and share their scuba diving experiences by providing them with a multimedia online logbook. The logbook can connect directly with dive computers through a PC/MAC plugin and fetch dive profiles. Divers can complete their logbook by adding observed species for every performed dive. Since October 2013, this online logbook is connected with GBIF, hoping that the publication of the data will help more scuba divers to get involved in monitoring our biotope in real time and in providing valuable data to scientists including species occurrences and dive profiles. Not only recent succeeded dives can be logged on Diveboard, also older dives, including occurrences, logged in the original divers log booklet can be digitized in the same way. This means that Diveboard is not only generating new data, but also historical data is mobilized this way.
+
+
 
 ## Featured data use
 
