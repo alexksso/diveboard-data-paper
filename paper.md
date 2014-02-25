@@ -60,7 +60,7 @@ Diveboarders can log their dives online, including the species they observed, by
 
 **Kingdom**: Animalia, Plantae
 
-**Phylum**: Porifera, Platyhelminthes, Cnidaria, Ctenophora, Mollusca, Arthropoda, Echinodermata, Chordata, Rhodophyta, Chlorophyta,
+**Phylum**: Annelida, Porifera, Platyhelminthes, Cnidaria, Ctenophora, Mollusca, Arthropoda, Echinodermata, Chordata, Rhodophyta, Chlorophyta, Echiura, Heterokontophyta, Magnoliaphyta, Ochrophyta, Sipuncula
 
 **Class**: Actinopterygii, Elasmobranchii, Holocephali,  Reptilia, Mammalia, Aves, Thaliacea, Ascidiacea, Anthozoa, Cephalopoda, Bivalvia, Malacostraca, Gastropoda, Maxillopoda, Asteroidea, Crinoidea, Echinoidea, Ophiuroidea, Holothuroidea, Cubozoa, Hydrozoa, Scyphozoa, Tentaculata, Demospongiae, Hexactinellida, Calcarea, Bryopsidophyceae, Florideophyceae, Ulvophyceae …
 
