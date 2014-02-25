@@ -30,6 +30,8 @@ Issues with the data or the dataset can be submitted through github: https://git
 
 ![Figure 1](images/image_1.png)
 
+*Figure 1: the homepage of www.diveboard.com*
+
 **Keywords**: occurrence, observation, citizen science, marine, freshwater, fishes, scuba diving, reef, shark
 
 **Purpose**: The Diveboard dataset is being created by the desire of the amateur diver community to help the scientific community in research towards protecting the biodiversity of our oceans, seas, and freshwater bodies. The data is not generated with any overarching purpose, other than completing one’s personal digital log of dives. The Diveboard community has dedicated the data to the public domain under a Creative Commons Zero waiver, so these can be used as widely as possible. It needs to be mentioned that this dataset originated from citizen science observations and no direct validation by experts was performed. The Diveboard team and Datafable are continuously working on ways to improve the quality and fitness for use of the data. Just like the Diveboard website, the diveboard dataset is a continious work in progress and we predict major quality improvement and better identifications in the data. A featured feature on the website is that species can be identified by amatuers or specialists based on the pictures taken during a certain dive.
@@ -40,22 +42,31 @@ Issues with the data or the dataset can be submitted through github: https://git
 
 **General taxonomic coverage description**: The dataset covers animals (and very few plants) observed during scuba dives performed by members of the Diveboard community. To date 2013-11-28, about 73 % of the recorded specimens are fishes from the classes Elasmobranchii (12%) and  Actinopterygii (72%) other well represented classes are the Malacostraca (5%), Reptilia (5%) (mostly Testudines) and Cephalopoda (3%). Overall, 29 different classes, according to Encyclopedia of life are so far recorded in the database.  For about 490 occurrences, no higher taxonomy was deducted from the Encyclopedia of life.
 
-Diveboarders can log their dives online, including the species they observed, by using the Encyclopedia of Life (http://eol.org) as a checklist. Most of the observations are identified to species level (to date about 14.700), though some caution regarding the identifications is appropriate. In case of doubt, the observer/identifier can be contacted via the references field, which references his/her Diveboard profile.
+Diveboarders can log their dives online, including the species they observed, by using the Encyclopedia of Life (http://eol.org) as a checklist. Most of the observations are identified to species level (to date about 14.700), though some caution regarding the identifications is appropriate. In case of doubt, the observer/identifier can be contacted via the references field, which references his/her Diveboard profile or through this Github link: https://github.com/Datafable/diveboard-data-paper
 
-![Figure 1]()
 
-*Figure 1: Taxonomic coverage of the Diveboard dataset, Classes and Phyla*
+![Figure 2a](images/image_2a.png) 
 
-![Figure 2]()
 
-*Figure 2: Geographical taxonomic coverage.*
+*Figure 2a: Taxonomic coverage of the Diveboard dataset, Classes*
+
+![Figure 2b](images/image_2b.png)
+
+*Figure 2b: Taxonomic coverage of the Diveboard datset, Phyla*
+
+
 
 ### Taxonomic ranks
 
-Kingdom: Animalia, Plantae
+**Kingdom**: Animalia, Plantae
 
-Phylum: Porifera, Platyhelminthes, Cnidaria, Ctenophora, Mollusca, Arthropoda, Echinodermata, Chordata, Rhodophyta, Chlorophyta, … 
-Class: Actinopterygii, Elasmobranchii, Holocephali,  Reptilia, Mammalia, Aves, Thaliacea, Ascidiacea, Anthozoa, Cephalopoda, Bivalvia, Malacostraca, Gastropoda, Maxillopoda, Asteroidea, Crinoidea, Echinoidea, Ophiuroidea, Holothuroidea, Cubozoa, Hydrozoa, Scyphozoa, Tentaculata, Demospongiae, Hexactinellida, Calcarea, Bryopsidophyceae, Florideophyceae, Ulvophyceae …
+**Phylum**: Porifera, Platyhelminthes, Cnidaria, Ctenophora, Mollusca, Arthropoda, Echinodermata, Chordata, Rhodophyta, Chlorophyta,
+
+**Class**: Actinopterygii, Elasmobranchii, Holocephali,  Reptilia, Mammalia, Aves, Thaliacea, Ascidiacea, Anthozoa, Cephalopoda, Bivalvia, Malacostraca, Gastropoda, Maxillopoda, Asteroidea, Crinoidea, Echinoidea, Ophiuroidea, Holothuroidea, Cubozoa, Hydrozoa, Scyphozoa, Tentaculata, Demospongiae, Hexactinellida, Calcarea, Bryopsidophyceae, Florideophyceae, Ulvophyceae …
+
+![Figure 3](images/image_3.png)
+
+*Figure 3: Spacial and taxonomical coverage combined*
 
 **Common names**: ray-finned fishes, sharks, rays & skates, Crustaceans, Echinoderms
 
