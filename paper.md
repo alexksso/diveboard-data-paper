@@ -66,7 +66,7 @@ Diveboarders can log their dives online, including the species they observed, by
 
 ![Figure 3](images/image_3.png)
 
-*Figure 3: Spacial and taxonomical coverage of the most frequent occurring classes combined*
+*Figure 3: Spacial and taxonomical coverage of the most frequent occurring classes combined, using Tableau public*
 
 **Common names**: ray-finned fishes, sharks, rays & skates, crustaceans, echinoderms...
 
@@ -123,12 +123,21 @@ The idea of publishing a 100% diver community generated dataset on GBIF,in the h
 
 The data published through Diveboard already contribute valuable information to users of the GBIF portal. For example, they help show the spread of the highly invasive Lionfish (Pterais spp), native to the Indo-Pacific region and now causing major problems in Caribbean and western Atlantic coral reefs (http://www.gbif.org/page/2991).
 We succeeded in visualising the invasive path of the Lionfish in those areas by using Cartodb, a tool to visualize geospatial data. The dataset, which has been published throught the Diveboard IPT (http://ipt.diveboard.com/resource.do?r=diveboard-occurrences)on GBIF (http://www.gbif.org/dataset/66f6192f-6cc0-45fd-a2d1-e76f5ae3eab2) was downloaded and imported integrally in the tool. 
-CartoDB can recognize geographical and shows the data immediately on the map (http://cdb.io/1jD1OYZ). The CartoDB querying tool was used to filter the data for occurrences for the taxon *Pterois* by using this simple query.
+CartoDB can recognize geographical and shows the data immediately on the map (http://cdb.io/1jD1OYZ). 
+
+![Figure 8](images/image_8.png)
+
+*Figure 8: All the occurrence data projected on the Worldmap using CartoDB*
+
+The CartoDB querying tool was used to filter the data for occurrences for the taxon *Pterois* by using this simple query.
 
 SELECT * FROM Diveboard_occurrences
 WHERE scientificName LIKE '%Pterois'
 
-This query would show all the *Pterois* occurrences in the dataset on the worldmap. For rendering the data through time we used another option, which was recently created by the CartoDB team, the Torque tool. We simply had to indicate in CartoDB which column in the dataset provided the timestamp (using ISO standard) of the occurrence to get this to work. the result is a worldmap where the occurrences of *Pterios* are visualized over time. 
+
+![Figure 9](images/image_9.png)
+
+This query would show all the *Pterois* occurrences in the dataset on the worldmap (http://cdb.io/1jD3AJI). For rendering the data through time we used another option, which was recently created by the CartoDB team, the Torque tool. We simply had to indicate in CartoDB which column in the dataset provided the timestamp (using ISO standard) of the occurrence to get this to work. the result is a worldmap where the occurrences of *Pterios* are visualized over time. This work is visible online through this url: 
 
 
 
