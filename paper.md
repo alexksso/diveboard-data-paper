@@ -137,7 +137,9 @@ WHERE scientificName LIKE '%Pterois'
 
 ![Figure 9](images/image_9.png)
 
-This query would show all the *Pterois* occurrences in the dataset on the worldmap (http://cdb.io/1jD3AJI). For rendering the data through time we used another option, which was recently created by the CartoDB team, the Torque tool. We simply had to indicate in CartoDB which column in the dataset provided the timestamp (using ISO standard) of the occurrence to get this to work. the result is a worldmap where the occurrences of *Pterios* are visualized over time. This work is visible online through this url: 
+This query would show all the *Pterois* occurrences in the dataset on the worldmap (http://cdb.io/1jD3AJI). For rendering the data through time we used another option, which was recently created by the CartoDB team, the Torque tool. We simply had to indicate in CartoDB which column in the dataset provided the timestamp (using ISO standard) of the occurrence to get this to work. The result is a worldmap where the occurrences of *Pterios* are visualized over time. This work is visible online through this url: **on lifewatch cartoDB account..?**
+
+It becomes more interesting if we combine the data from this dataset with the whole GBIF data....
 
 
 
