@@ -92,12 +92,12 @@ Diveboarders can log their dives online, including the species they observed, by
 
 **Method step description**: Event and location conditions (date, time, depth, etc.) are often logged automatically by the dive computer or recorded in the divers personall log. This data can be imported automatically or manually added by the diver in the Diveboard application. Observed species are always added manually, by choosing the right species from the checklist. If the observed species is not available on Diveboard, you can import the species by using a protocol developed by diveboard which build on the EOL webservices. These actions can be done just after surfacing, as the Diveboard application is available online and as a mobile app, which allows divers to record their dive even if no internet connection is available. Older data can be copied into the application manually by transcripting the original divers log.
 
-![Figure 6](images/image_6.png)
+![Figure 6](images/image_6.PNG)
 
 *Figure 6: Certain variables can be imported manually or by computer*
 
 
-![Figure 7](images/image_7.png)
+![Figure 7](images/image_7.PNG)
 
 *Figure 7: Observed species are imported by selecting the observed species in the EOL checklist* 
 
@@ -125,7 +125,7 @@ The data published through Diveboard already contribute valuable information to 
 We succeeded in visualising the invasive path of the Lionfish in those areas by using Cartodb, a tool to visualize geospatial data. The dataset, which has been published throught the Diveboard IPT (http://ipt.diveboard.com/resource.do?r=diveboard-occurrences)on GBIF (http://www.gbif.org/dataset/66f6192f-6cc0-45fd-a2d1-e76f5ae3eab2) was downloaded and imported integrally in the tool. 
 CartoDB can recognize geographical and shows the data immediately on the map (http://cdb.io/1jD1OYZ). 
 
-![Figure 8](images/image_8.png)
+![Figure 8](images/image_8.PNG)
 
 *Figure 8: All the occurrence data projected on the Worldmap using CartoDB*
 
@@ -135,7 +135,7 @@ SELECT * FROM Diveboard_occurrences
 WHERE scientificName LIKE '%Pterois'
 
 
-![Figure 9](images/image_9.png)
+![Figure 9](images/image_9.PNG)
 
 This query would show all the *Pterois* occurrences in the dataset on the worldmap (http://cdb.io/1jD3AJI). For rendering the data through time we used another option, which was recently created by the CartoDB team, the Torque tool. We simply had to indicate in CartoDB which column in the dataset provided the timestamp (using ISO standard) of the occurrence to get this to work. The result is a worldmap where the occurrences of *Pterios* are visualized over time. This work is visible online through this url: **on lifewatch cartoDB account..?**
 
