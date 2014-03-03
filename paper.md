@@ -131,7 +131,7 @@ CartoDB can recognize geographical and shows the data immediately on the map (ht
 
 The CartoDB querying tool was used to filter the data for occurrences for the taxon *Pterois* by using this simple query.
 
-SELECT * FROM Diveboard_occurrences
+SELECT * FROM Diveboard_occurrences 
 WHERE scientificName LIKE '%Pterois'
 
 
