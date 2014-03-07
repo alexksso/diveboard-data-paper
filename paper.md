@@ -121,7 +121,7 @@ The idea of publishing a 100% diver community generated dataset on GBIF,in the h
 
 ###The Lionfish case
 
-The data published through Diveboard already contribute valuable information to users of the GBIF portal. For example, they help show the spread of the highly invasive Lionfish (Pterais spp), native to the Indo-Pacific region and now causing major problems in Caribbean and western Atlantic coral reefs (http://www.gbif.org/page/2991).
+The data published through Diveboard already contribute valuable information to users of the GBIF portal. For example, they help show the spread of the highly invasive Lionfish (Pterois spp), native to the Indo-Pacific region and now causing major problems in Caribbean and western Atlantic coral reefs (http://www.gbif.org/page/2991).
 We succeeded in visualising the invasive path of the Lionfish in those areas by using Cartodb, a tool to visualize geospatial data. The dataset, which has been published throught the Diveboard IPT (http://ipt.diveboard.com/resource.do?r=diveboard-occurrences)on GBIF (http://www.gbif.org/dataset/66f6192f-6cc0-45fd-a2d1-e76f5ae3eab2) was downloaded and imported integrally in the tool. 
 CartoDB can recognize geographical and shows the data immediately on the map (http://cdb.io/1jD1OYZ). 
 
